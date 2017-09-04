@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 aghnia.putri61 StafCS 4096 Sep  5 05:53 .
+drwx--x--x  5 aghnia.putri61 StafCS 4096 Sep  5 05:50 ..
+drwxr-xr-x  8 aghnia.putri61 StafCS 4096 Sep  5 05:51 .git
+drwxr-xr-x  2 aghnia.putri61 StafCS 4096 Sep  5 05:19 key
+-rw-r--r--  1 aghnia.putri61 StafCS    0 Sep  5 06:03 lab01.txt
+drwxr-xr-x  2 aghnia.putri61 StafCS 4096 Sep  5 05:19 log
+-rw-r--r--  1 aghnia.putri61 StafCS    7 Sep  5 05:12 README.md
+drwxr-xr-x  2 aghnia.putri61 StafCS 4096 Sep  5 05:36 sandbox
+drwxr-xr-x  2 aghnia.putri61 StafCS 4096 Sep  5 05:50 week00
+drwxr-xr-x  2 aghnia.putri61 StafCS 4096 Sep  5 05:16 week01
+drwxr-xr-x  2 aghnia.putri61 StafCS 4096 Sep  5 05:17 week02
+drwxr-xr-x  2 aghnia.putri61 StafCS 4096 Sep  5 05:17 week03
+drwxr-xr-x  2 aghnia.putri61 StafCS 4096 Sep  5 05:17 week04
+drwxr-xr-x  2 aghnia.putri61 StafCS 4096 Sep  5 05:17 week05
+drwxr-xr-x  2 aghnia.putri61 StafCS 4096 Sep  5 05:18 week06
+drwxr-xr-x  2 aghnia.putri61 StafCS 4096 Sep  5 05:18 week07
+drwxr-xr-x  2 aghnia.putri61 StafCS 4096 Sep  5 05:18 week08
+drwxr-xr-x  2 aghnia.putri61 StafCS 4096 Sep  5 05:18 week09
+drwxr-xr-x  2 aghnia.putri61 StafCS 4096 Sep  5 05:18 week10
+drwxr-xr-x  2 aghnia.putri61 StafCS 4096 Sep  5 05:19 xtra
+/home/fasilkom/mahasiswa/a/aghnia.putri61/os172/week01
