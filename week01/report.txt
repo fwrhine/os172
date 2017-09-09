@@ -1,9 +1,9 @@
 #aghnia_putri_prawira
 
 clone git repository
-make folders
+create folders
 learn to push and pull repository
 record work progress (lab01.txt)
-make week00 report
-make why study OS file
-make week01 report
+create week00 report
+create why study OS file
+create week01 report
