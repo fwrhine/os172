@@ -19,4 +19,5 @@ drwxr-xr-x  2 aghnia.putri61 StafCS 4096 Sep  5 05:18 week08
 drwxr-xr-x  2 aghnia.putri61 StafCS 4096 Sep  5 05:18 week09
 drwxr-xr-x  2 aghnia.putri61 StafCS 4096 Sep  5 05:18 week10
 drwxr-xr-x  2 aghnia.putri61 StafCS 4096 Sep  5 05:19 xtra
-/home/fasilkom/mahasiswa/a/aghnia.putri61/os172/week01
+/home/fasilkom/mahasiswa/a/aghnia.putri61/os172/week01   
+Today   is   05 Sep 2017 at 12:58:55
