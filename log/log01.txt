@@ -1,0 +1,8 @@
+w01-170906-21-LR-About: IPR, From: OLD 02-HKI, several websites
+w01-170907-06-PS-About: GIT and CLI
+w01-170907-06-PS-About: GIT and CLI
+w01-170907-13-LR-About: IPR, REGEX, & Scripting, From: Lecturer
+w01-170917-13-LR-Watching demo from lecturer
+w01-170917-14-LR-Watching demo from lecturer
+w01-170909-08-PS-About: GIT and CLI
+w01-170912-07-LR-Review scripting demo
