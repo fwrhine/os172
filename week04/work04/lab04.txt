@@ -1,0 +1,47 @@
+1. a) What are the differences about the code and the output from both program?
+      The global-char output has the same variable address for each variable for
+      all three times the program was run. Meanwhile, the local-char has three 
+      different addresses for each variable.
+
+   b) Why Global Variable Address number and Local Variable Address number have
+      a great difference in their address?
+      Global variable is always stored in the same address since the value 
+      should be the same when used by other functions. Meanwhile, local variable
+      is stored in a different address everytime we run the function because it
+      is stored in a stack, so everytime a function is run, the variable is 
+      deallocated. This is why they have great difference in their address.
+    
+   c) Local variable is declared inside a function and can only be used in the 
+      function where it is declared. It is allocated in the stack.
+      Global variable is declared outside all functions and can be used in all 
+      functions. It is allocated in the heap. Memory allocated in the heap 
+      remains in existence for the duration of a program.
+
+
+   (source: https://www.codingunit.com/c-tutorial-functions-and-global-local-variables,
+    http://www-ee.eng.hawaii.edu/~tep/EE160/Book/chap14/subsection2.1.1.8.html)  
+
+2. a) O_CREAT: If the file exists, this flag has no effect. Otherwise, the file 
+      is created.
+      O_RDWR: Open for reading and writing.
+
+   b) S_IRWXU  00700 user (file  owner) has read, write and execute permission
+      S_IRGRP  00040 group has read permission
+      S_IWGRP  00020 group has write permission
+      S_IROTH  00004 others have read permission
+
+   c) Open makes a request to the operating system to use a file. The 'path'
+      argument specifies what file you would like to use, and the 'flags' and 
+      'mode'arguments specify how you would like to use it. If the operating 
+      system approves your request, it will return a ``file descriptor'' to you.
+     
+      Close closes  a  file descriptor, so that it no longer refers to any
+      file and may be reused. 
+   
+   (source: http://web.eecs.utk.edu/~huangj/cs360/360/notes/Syscall-Intro/lecture.html)
+
+3. Write writes data from a buffer declared by the user to a given device, 
+   maybe a file.
+   write(fd) --> write to a file descriptor
+
+   (source: https://en.wikipedia.org/wiki/Write_(system_call)) 
