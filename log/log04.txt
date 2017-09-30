@@ -1,0 +1,4 @@
+w04-170930-08-PS-About: Global var, local var, pointer, I/O process
+w04-170930-08-PS-About: Global var, local var, pointer, I/O process
+w04-170930-14-PS-About: Global var, local var, pointer, I/O process
+w04-170930-14-PS-About: Global var, local var, pointer, I/O process

@@ -1,2 +1,9 @@
 w03-170920-16-PS-About: Linux booting, sudo, encryption and digital signature using GnuPG
 w03-170922-20-PS-About: Linux booting, sudo, encryption and digital signature using GnuPG
+w03-170926-08-LR-About: BIOS, Loader, Systemd, & I/O, From: os03-172.pdf, several websites
+w03-170926-13-LR-About: BIOS, Loader, Systemd, & I/O, From: Lecturer
+w03-170926-13-LR-About: BIOS, Loader, Systemd, & I/O, From: Lecturer
+w03-170926-14-LR-About: BIOS, Loader, Systemd, & I/O, From: Lecturer
+w03-170928-13-LR-About: BIOS, Loader, Systemd, & I/O, From: Lecturer
+w03-170928-13-LR-About: BIOS, Loader, Systemd, & I/O, From: Lecturer
+w03-170928-14-LR-About: BIOS, Loader, Systemd, & I/O, From: Lecturer
